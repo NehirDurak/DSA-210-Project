@@ -15,7 +15,7 @@ To build a robust analysis, there will be various datasets from multiple organiz
 * [Pew Research Center: Religious Composition by Country      Percentage of major religions by country](https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/)
 * World Bank & WHO Indicators:                 GDP per capita, literacy rates, urbanization, legal frameworks,
 * Health metrics such as
-* [life expectancy ] (https://databank.worldbank.org/indicator/NY.GDP.PCAP.CD/1ff4a498/Popular-Indicators#)
+* [life expectancy ](https://databank.worldbank.org/indicator/NY.GDP.PCAP.CD/1ff4a498/Popular-Indicators#)
 * [Prevalence of HIV](https://databank.worldbank.org/indicator/NY.GDP.PCAP.CD/1ff4a498/Popular-Indicators#advancedDownloadOptions)
 * [Fertility Rates](https://databank.worldbank.org/indicator/NY.GDP.PCAP.CD/1ff4a498/Popular-Indicators#advancedDownloadOptions)
 * MICS (Multiple Indicator Cluster Surveys):        UNICEF based microdata surveys including FGM modules for certain countries
