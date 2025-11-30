@@ -69,7 +69,7 @@ A critical challenge with UNICEF MICS data is the separation of variables across
 ###  Bivariate Analysis Strategy
 For each country, we analyzed the relationship between the categorical variables using the following methods:
 
-1.  **Cross-Tabulation:** Calculated the prevalence (%) of FGM within each religious denomination (Muslim, Catholic, Protestant, Coptic, Traditional, etc.).
+1.  **Cross-Tabulation:** Calculated the prevalence (%) of FGM within each religious denomination (Muslim, Catholic, Protestant, Coptic, Traditional, etc.) and education .
 2.  **Chi-Square Test of Independence ($\chi^2$):**
     * *Null Hypothesis ($H_0$):* There is no association between religious affiliation and FGM prevalence.
     * *Alternative Hypothesis (H_1):* Statistical dependence exists between the two variables.
