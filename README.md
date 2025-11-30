@@ -41,17 +41,13 @@ Selection Criterion: Universal Prevalence in a Muslim-Majority Nation.
 
 Rationale: Historically, Egypt has recorded some of the highest FGM/C rates globally. Including Egypt serves as a control case to investigate whether the practice persists as a universal cultural norm across both the Muslim majority and the significant Coptic Christian minority, potentially indicating that national culture supersedes religious doctrine.
 
-# 3. Ethiopia 🇪🇹 (The Christian-Majority Context)
-Selection Criterion: High Prevalence in a Christian-Majority Nation.
 
-Rationale: To challenge the common misconception that FGM/C is exclusively tied to Islamic practice, Ethiopia is included as a critical case study. As a nation with a deep Christian heritage and high recorded rates of FGM/C, it provides necessary data to test the hypothesis that the practice is independent of specific theological mandates.
-
-# 4. Kenya 🇰🇪 (The Ethnic Variable)
+# 3. Kenya 🇰🇪 (The Ethnic Variable)
 Selection Criterion: Ethnic Diversity & Lower National Prevalence.
 
 Rationale: Unlike nations with universal prevalence, Kenya has immense variation in FGM/C rates between regions. It is selected to test the "Ethnicity Hypothesis"—specifically, whether FGM/C rates cluster more significantly around tribal/ethnic lines (e.g., Somali, Kisii, Masai) rather than religious groups, suggesting that culture may be a stronger driver than faith.
 
-# 5. Sierra Leone 🇸🇱 (The Secret Society Factor)
+# 4. Sierra Leone 🇸🇱 (The Secret Society Factor)
 Selection Criterion: Non-Religious Cultural Drivers.
 
 Rationale: West Africa presents unique cultural dynamics where FGM/C is often linked to rites of passage within secret societies (such as the Bondo Society). Sierra Leone is included to examine drivers of the practice that may exist entirely outside of, or parallel to, organized Abrahamic religions (Islam/Christianity).
