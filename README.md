@@ -30,7 +30,7 @@ Module Availability: Datasets were screened to ensure they contained both the Ch
   
 
 # Methodology
-### 1. The Gambia 🇬🇲 (The Religious Mandate Case)
+### 1. Gambia 🇬🇲 (The Religious Mandate Case)
 
 **Selection Criterion:** High Prevalence explicitly linked to Religious Interpretation.
 
