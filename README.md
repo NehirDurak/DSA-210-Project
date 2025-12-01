@@ -57,7 +57,7 @@ To ensure the statistical validity of the results, a standardized EDA pipeline w
 
 ### Data Wrangling & Merging
 A critical challenge with UNICEF MICS data is the separation of variables across different files.
-* **The Problem:** FGM/C status is recorded in the *Women’s Questionnaire* (`wm.sav`), while Religious Affiliation is often recorded in the *Household Questionnaire* (`hh.sav`).
+* **The Problem:** FGM/C status is recorded in the *Women’s Questionnaire* (`wm.sav`), while Religious Affiliation is often recorded in the *Household Questionnaire* (`hh.sav`).And in some cases I have used ('fg.sav') *Female genital mutilation/cutting.*
 * **The Solution:** A merging algorithm was implemented to link individual women to their household heads using composite keys (`Cluster Number` + `Household Number`).
 * **Data Cleaning:**
     * **Standardization:** Variable labels (e.g., `FG3`, `HC1A`) were mapped to human-readable names (`FGM_Status`, `Religion`).
