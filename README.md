@@ -30,11 +30,11 @@ Module Availability: Datasets were screened to ensure they contained both the Ch
   
 
 # Methodology
-To investigate the correlation between religious demographics and FGM/C prevalence, this study utilizes a stratified sampling strategy. Rather than analyzing countries at random, five nations were selected to represent distinct archetypes of religious composition, geographic location, and cultural history.These countries are listed below:
-### 1. Nigeria 🇳🇬 (The "Split" Demographic)
-Selection Criterion: Religious Parity.
+### 1. The Gambia 🇬🇲 (The Religious Mandate Case)
 
-Rationale: Nigeria offers a unique natural experiment due to its near-even demographic split between a predominantly Muslim North and a predominantly Christian South. This allows for a comparative analysis of FGM/C prevalence across two major world religions within a single national legislative framework, helping to isolate the variable of religious affiliation.
+**Selection Criterion:** High Prevalence explicitly linked to Religious Interpretation.
+
+**Rationale:** The Gambia offers a critical insight into the intersection of **law and religion**. With a high national prevalence rate of approximately 76%, the practice here is often defended explicitly on religious grounds, distinguishing it from purely cultural traditions seen in other countries. Recent political moves to repeal the anti-FGM law highlight the power of religious leaders in this region. Analyzing The Gambia allows us to test the hypothesis that **religious endorsement** can sustain high FGM rates even in the face of legal prohibitions and when education acts as a mitigating factor.
 
 ### 2. Guinea 🇬🇳 (The Hyper-Prevalence Case)
 
