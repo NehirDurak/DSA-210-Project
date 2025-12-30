@@ -1,10 +1,10 @@
 # DSA-210-Project - Correlating FGM/C Prevalence with Religious Demographics
 
 # Introduction 
-Female Genital Mutilation/Cutting (FGM/C) is a crime that has been ongoing in 2025, affecting millions of women worldwide. While this practice is mostly driven by social norms, it is also associated with specific religious factors and education levels. This project  investigates into the statistical relationship between the prevalence of FGM/C in various countries in Africa and their corresponding religious influences while controlling for socio-economic and demographic factors such as education, income level,urbanization, region. Beyond the statistical investigation, I have chosen this project to help raise awareness about the persistence of this practice and to highlight the multi-faceted factors that must be addressed to protect the fundamental rights of women.
+Female Genital Mutilation/Cutting (FGM/C) is a crime that has been ongoing in 2025, affecting millions of women worldwide. While this practice is mostly driven by social norms, it is also associated with specific religious factors and education levels. This project  investigates into the statistical relationship between the prevalence of FGM/C in various countries in Africa and their corresponding religious influences while controlling for socio-economic and demographic factors such as education, income level,urbanization, region.
 
 # Motivation
-Even the existence of FGM/C is a significant human rights issue.Effective policy and intervention strategies to eradicate it depend on a correct understanding of its root causes. The motivation for this project is to apply the data science pipeline to a complex social problem.
+Even the existence of FGM/C is a significant human rights issue.Effective policy and intervention strategies to eradicate it depend on a correct understanding of its root causes. The motivation for this project is to apply the data science pipeline to a complex social problem.Beyond the statistical investigation, I have chosen this project to help raise awareness about the persistence of this practice and to highlight the multi-faceted factors that must be addressed to protect the fundamental rights of women.
 
 # Data Sources and Collection
 To build a robust analysis, there will be various datasets from multiple organizations.
