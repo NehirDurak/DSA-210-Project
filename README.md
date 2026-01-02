@@ -79,3 +79,28 @@ For each country, we analyzed the relationship between the categorical variables
 ###  Visualization
 Bar charts were generated to visualize the conditional probability $P(\text{FGM} | \text{Religion})$. These visualizations highlight the variance—or lack thereof—between different faith groups within the same national border.
 
+##  Machine Learning Findings
+
+This project applies supervised machine learning to analyze **Female Genital Mutilation (FGM) prevalence** using MICS/DHS-style survey data across multiple African countries. The analysis focuses on **prediction under extreme class imbalance** and identifying **key social drivers** of FGM.
+
+### Model Performance
+
+- Most datasets exhibit **severe class imbalance** (FGM prevalence often >95%).
+- Techniques such as **class weighting and resampling** improve detection of rare *“No FGM”* cases but increase false negatives.
+
+
+### Drivers of FGM (Feature Importance)
+
+- Predictor importance varies significantly **by country**:
+  - **Sierra Leone & The Gambia:** Religion-related variables dominate.
+  - **Kenya:** Specific ethnic groups are the strongest predictors.
+  - **Guinea:** Feature importance is relatively flat, indicating near-universal prevalence.
+- These findings challenge the assumption that **cultural or regional factors always dominate religion**.
+
+### Key Takeaways
+
+- There is **no single universal driver** of FGM.
+- Feature importance reflects **association, not causality**.
+- Machine learning highlights structural patterns but must be interpreted alongside social context.
+
+
